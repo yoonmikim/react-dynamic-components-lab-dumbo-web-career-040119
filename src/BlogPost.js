@@ -12,7 +12,7 @@ export default class BlogPost extends Component {
     ]
     
     return (
-        <div id="blog-post" className="wrapper">
+      <div id="blog-post" className="wrapper">
         Alright internet trolls<br/>
         Come at me<br/>
         I have been preparing<br/>
