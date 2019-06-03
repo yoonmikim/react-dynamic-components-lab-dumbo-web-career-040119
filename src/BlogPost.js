@@ -28,5 +28,3 @@ export default class BlogPost extends Component {
     );
   }
 }
-
-Module not found: You attempted to import /Comment which falls outside of the project src/ directory. Relative imports outside of src/ are not supported. You can either move it inside src/, or add a symlink to it from project's node_modules/.
