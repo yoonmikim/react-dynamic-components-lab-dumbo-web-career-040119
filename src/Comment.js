@@ -5,7 +5,7 @@ export default class Comment extends Component {
   render() {
     
     return (
-      <div id="blog-post" className="wrapper">
+      <div className="comment">
         Alright internet trolls<br/>
         Come at me<br/>
         I have been preparing<br/>
