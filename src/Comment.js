@@ -6,6 +6,11 @@ export default class Comment extends Component {
     
     return (
       <div className="comment">
+        {/* (remove the comment ticks and their surrounding brackets)
+        <Comment commentText={comments[0]} />
+        <Comment commentText={comments[0]} />
+        <Comment commentText={comments[0]} />
+        */}
       </div>
     );
   }
